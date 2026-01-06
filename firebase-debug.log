@@ -1,0 +1,25 @@
+[debug] [2026-01-06T19:50:08.768Z] ----------------------------------------------------------------------
+[debug] [2026-01-06T19:50:08.770Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\ASUS\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2026-01-06T19:50:08.771Z] CLI Version:   15.1.0
+[debug] [2026-01-06T19:50:08.771Z] Platform:      win32
+[debug] [2026-01-06T19:50:08.771Z] Node Version:  v22.21.0
+[debug] [2026-01-06T19:50:08.771Z] Time:          Tue Jan 06 2026 20:50:08 GMT+0100 (UTC+01:00)
+[debug] [2026-01-06T19:50:08.771Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\ASUS\Desktop\react-native-music-app-main
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] 
